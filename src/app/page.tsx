@@ -62,10 +62,10 @@ export default function Home() {
               <div className="text-white/80">
                 <h3 className="text-2xl font-semibold mb-4 text-purple-300">Background</h3>
                 <p className="mb-4">
-                  I'm a passionate developer with expertise in modern web technologies. I love creating intuitive and beautiful user experiences.
+                  I&#39;m a passionate developer with expertise in modern web technologies. I love creating intuitive and beautiful user experiences.
                 </p>
                 <p>
-                  When I'm not coding, you can find me exploring new technologies, reading tech blogs, or working on personal projects.
+                  When I&#39;m not coding, you can find me exploring new technologies, reading tech blogs, or working on personal projects.
                 </p>
               </div>
               <div className="space-y-4">
@@ -120,7 +120,7 @@ export default function Home() {
           <div className="glass-card p-8 rounded-3xl backdrop-blur-md bg-white/10 border border-white/20 text-center">
             <h2 className="text-4xl font-bold text-white mb-8">Get In Touch</h2>
             <p className="text-xl text-white/80 mb-8">
-              Let's work together to bring your ideas to life!
+              Let&#39;s work together to bring your ideas to life!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="mailto:hikam@example.com" className="glass-button px-8 py-3 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white font-semibold hover:scale-105 transition-transform">
