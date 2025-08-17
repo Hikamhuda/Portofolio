@@ -12,7 +12,7 @@ export default function Home() {
       <nav className="relative z-10 p-6">
         <div className="glass-card rounded-full px-8 py-4 backdrop-blur-md bg-white/10 border border-white/20">
           <div className="flex justify-between items-center">
-            <h1 className="text-white font-bold text-xl">Hikam Huda</h1>
+            <h1 className="text-white font-bold text-xl">Hikam Hudaa</h1>
             <div className="hidden md:flex space-x-8">
               <a href="#home" className="text-white/80 hover:text-white transition-colors">Home</a>
               <a href="#about" className="text-white/80 hover:text-white transition-colors">About</a>
