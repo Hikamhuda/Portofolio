@@ -14,13 +14,6 @@
   }
 }
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-* {
-/* Removed unsupported @tailwind directives */
-}
 
 html {
   scroll-behavior: smooth;
